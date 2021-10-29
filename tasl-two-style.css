@@ -1,0 +1,83 @@
+  body{
+      font-family: 'Poppins', sans-serif;
+      height: auto;
+      width: auto;
+      line-height: 1.4;
+      padding: 20px 20px 20px 20px;
+      background-color: #FFE4B5;
+      }
+    .nav-link {
+      text-decoration: none;
+      color: #113755;
+      align-self: center;
+      padding-left: 10px;
+      display: inline-block;
+      padding: 20px;
+    }
+    .link{
+      text-decoration: none;
+      color: #113755;
+      align-self: center;
+      padding-left: 10px;
+    }
+    #header{
+      background-color:#ffa07a;
+      width:100%;
+      height: auto;
+      top: 0;
+      left:0;
+      padding: 1em 0em 0.5em;
+   }
+#header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#navbar {
+float: right;
+font-size: 20pt;
+font-weight: bold;
+padding-right: 50px;
+}
+#navbar ul, li {
+margin: 0;
+padding: 0;
+}
+#understanding-expo{
+font-size: 20pt;
+padding: 20px;
+}
+#plaza{
+width: auto;
+padding-top: 40px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1{
+text-align: center;
+}
+.section{
+font-size: 20pt;
+}
+#expo-ticket{
+width: 100%;
+padding-top: 40px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+/* Footer */
+#footer{
+font-size: 20pt;
+display: block;
+text-align: center;
+width: auto;
+background-color: #ffa07a;
+height: auto;
+top: 0;
+left:0;
+}
+/* End Footer */
